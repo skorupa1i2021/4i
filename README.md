@@ -6,3 +6,4 @@ Parówki berlinki
 
 najlepsze ;)
 
+A co sądzisz o kabanosach tarczyńskich
