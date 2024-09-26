@@ -115,6 +115,51 @@ else{
         
         
     </script>
+
+     <form action="mailto:mail@gmail.com" method="post" enctype="multipart/form-data">
+        <label for="imie">Imie:</label>
+        <input type="text" id="imie" required><br>
+        <label>Nazwisko:<input type="text" required></label>
+        <fieldset>
+            <legend>Adres Zamieszkania</legend>
+            <input type="text" id="postalCode" name="postalCode" required placeholder="00-000" pattern="\d{2}-\d{3}" title="Wprowadź kod pocztowy w formacie XX-XXX"><br><br>
+            <p>Miasto <input type="text" name="miasto"  placeholder="Gliwice"></p>
+            <p>Ulica <input type="text" name="ulica"  placeholder="ul. Chorzowska"></p>
+           
+        </fieldset>
+
+        <fieldset>
+            <legend>Dołącz plik</legend>
+            <label for="plik">Załącz plik:</label><br>
+        <input type="file" id="plik" name="plik" accept=".pdf,.doc,.docx,.txt"><br><br>
+            
+           
+        </fieldset>
+
+        <fieldset>
+            <legend>Napisz wiadomosc</legend>
+            <label for="wiadomosc">Wiadomość:</label><br>
+            <textarea id="wiadomosc" name="wiadomosc" rows="4" cols="50" maxlength="480" placeholder="Twoja wiadomość..."></textarea><br><br>
+            
+           
+        </fieldset>
+
+        <fieldset>
+            <legend>Zainteresowania</legend>
+            <label><input  type="radio" >Programowanie</label><br>
+            <label><input  type="radio" >Sport</label><br>
+            <label><input  type="radio" >Kinematografia</label><br>
+        </fieldset>
+        <fieldset>
+            <legend>RODO</legend>
+            <label><input  type="checkbox" >Zgoda na przetwarzanie danych osobowych</label><br>
+            <label><input  type="checkbox" >Potwierdzam że zapoznałem sie z regulaminem</label><br>
+        </fieldset>
+      
+        <label for="zatwierdz">Potwierdź</label>
+        <input type="submit" id="zatwierdz"><br>
+         <input type="reset">
+         </form>
     
 </body>
 </html>
