@@ -12,3 +12,6 @@ Też są bardzo dobre, szczegóolnie te nadziwane
 
 Rell, imo najlepsze wieprzowe
  A powiedziałbyś, że drobiowe to by sie źle skończyło :)
+
+
+Ale tylko największe paczuszki, bo taniej ;D
