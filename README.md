@@ -15,3 +15,6 @@ Rell, imo najlepsze wieprzowe
 
 
 Ale tylko największe paczuszki, bo taniej ;D
+
+
+rell kurwa rell
