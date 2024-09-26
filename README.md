@@ -27,3 +27,9 @@ rell kurwa rell
 
 opijemy za zdaną matmę i angielski???
 ![image](https://github.com/user-attachments/assets/ad2dbc6e-0043-4592-be5a-0a0be2b270e8)
+
+
+
+Oczywiście, że tak ;))))))
+
+Tylko kiedy??
