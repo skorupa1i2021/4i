@@ -18,3 +18,5 @@ Ale tylko największe paczuszki, bo taniej ;D
 
 
 rell kurwa rell
+
+![image](https://github.com/user-attachments/assets/d6685593-4ac2-4865-aa0b-b063dd20aaf5)
