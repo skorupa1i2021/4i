@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <header>
+        <h1>Podstawy JS</h1>
+    </header>
+    <script>
+
+const imie = (prompt('Jak masz na imię? '));
+
+
+
+document.write('Witaj '+imie +' jestem Rafał, miło cie poznac </br>')
+
+
+'</br>'
+
+do {
+            wiek = parseInt(prompt('Ile masz lat?: '));
+
+        }while(isNaN(wiek));
+       
+
+    if(wiek >= 15){
+        document.write('Widze, że masz 15 lat lub wiecej </br>')
+    }
+    else{
+        document.write('Widze, że masz poniżej 15 lat </br>') 
+    }
+
+
+'</br>'
+
+  pyt = confirm("Chodzisz do klasy 3i?");
+
+if(pyt = true){
+    document.write('Ciesze się, że chodzisz do tej klasy </br>') 
+}
+else{
+    document.write('Szkoda, że nie chodzisz do tej klasy </br>') 
+}
+
+  
+
+'</br>'
+
+  kalkulator = confirm("Czy chcesz abym pokazał Ci kalkulator?");
+
+
+
+  switch (kalkulator) {
+      case true:
+      do {
+            number1 = parseInt(prompt('wpisz pierwszą liczbę: '));
+
+        }while(isNaN(number1));
+        
+
+
+        do {
+            number2 = parseInt(prompt('wpisz drugą liczbę: '));
+
+        }while(isNaN(number2));
+        
+
+
+         const dzialanie = (prompt('wpisz jakie działanie ma się wykonać (+,-,*,/): '));
+
+
+         
+         '</br>'
+
+        switch (dzialanie) {
+            case '+':
+            document.write('<p>wynik dodawania: '+(number1+number2)+'</p>')
+                break;
+            case'-':
+            document.write('<p>wynik odejmowania: '+(number1-number2)+'</p>')
+            break;
+            case '*':
+            document.write('<p>wynik mnożenia: '+(number1*number2)+'</p>')
+            break;
+            case '/':
+            if(number1 == 0){
+                document.write('<p>nie dzielimy przez 0  ;)</p>')
+            }
+            else if(number2 == 0){
+                document.write('<p>nie dzielimy przez 0 </p>')
+            }
+            else{
+            document.write('<p>wynik dzielenia: '+(number1/number2)+'</p>')
+            }
+            break;
+
+            default:
+            document.write('<p>nie znam takiego działania </p>')
+                break;
+        }
+          break;
+  
+      default:
+      p = "Szkoda, że nie chcesz zobaczyć"
+          break;
+  }
+
+
+        
+        
+        
+    </script>
+    
+</body>
+</html>
