@@ -33,3 +33,8 @@ opijemy za zdaną matmę i angielski???
 Oczywiście, że tak ;))))))
 
 Tylko kiedy??
+
+jak najszybcciej
+
+Imo Zelent tak napisać na spr z sinsów mogłem 
+![image](https://github.com/user-attachments/assets/43fc13ee-23ef-4fa7-96ca-d1f6ca65fd91)
