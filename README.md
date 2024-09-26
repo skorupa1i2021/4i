@@ -11,3 +11,4 @@ A co sądzisz o kabanosach tarczyńskich
 Też są bardzo dobre, szczegóolnie te nadziwane
 
 Rell, imo najlepsze wieprzowe
+ A powiedziałbyś, że drobiowe to by sie źle skończyło :)
