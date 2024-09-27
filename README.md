@@ -40,3 +40,4 @@ Imo Zelent tak napisać na spr z sinsów mogłem
 ![image](https://github.com/user-attachments/assets/43fc13ee-23ef-4fa7-96ca-d1f6ca65fd91)
 
 Nie masz psychy tego zrobić nastepnym razem, musisz to zrobić 
+To bedzie najlepszy momnet lekcji ;D
