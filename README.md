@@ -45,3 +45,5 @@ To bedzie najlepszy momnet lekcji ;D
 bet jak będzie można to zrobię 
 
 No i zawaliscie, jestesmy dogadani ;)
+
+https://pin.it/1jL4c731d
