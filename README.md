@@ -42,4 +42,4 @@ Imo Zelent tak napisać na spr z sinsów mogłem
 Nie masz psychy tego zrobić nastepnym razem, musisz to zrobić 
 To bedzie najlepszy momnet lekcji ;D
 
-bet jak będzie można to zrobię rąk 
+bet jak będzie można to zrobię 
