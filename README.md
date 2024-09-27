@@ -43,3 +43,5 @@ Nie masz psychy tego zrobić nastepnym razem, musisz to zrobić
 To bedzie najlepszy momnet lekcji ;D
 
 bet jak będzie można to zrobię 
+
+No i zawaliscie, jestesmy dogadani ;)
